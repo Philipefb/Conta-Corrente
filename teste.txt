@@ -1,0 +1,4 @@
+{"tipo-cmd":"abertura","conta":"00000005","valor":87.34}
+{"tipo-cmd":"relatorio-conta","conta":"00000005","valor":90.34}
+{"tipo-cmd":"deposito","conta":"00000005","valor":90.34}
+{"tipo-cmd":"relatorio-conta","conta":"00000005","valor":90.34}
